@@ -1,0 +1,1714 @@
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,665600]
+ out=665600_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,759810]
+ out=759810_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3317770]
+ out=3317770_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,665610]
+ out=665610_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1665050]
+ out=1665050_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1486880]
+ out=1486880_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,555040]
+ out=555040_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1484840]
+ out=1484840_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,665640]
+ out=665640_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,821290]
+ out=821290_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1486890]
+ out=1486890_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,823340]
+ out=823340_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,385070]
+ out=385070_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,665650]
+ out=665650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2390080]
+ out=2390080_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,622660]
+ out=622660_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,929860]
+ out=929860_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,501830]
+ out=501830_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2072650]
+ out=2072650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,665680]
+ out=665680_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3350610]
+ out=3350610_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,720980]
+ out=720980_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,665690]
+ out=665690_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3242080]
+ out=3242080_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1484900]
+ out=1484900_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1589350]
+ out=1589350_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,155750]
+ out=155750_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1618030]
+ out=1618030_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,155760]
+ out=155760_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1046640]
+ out=1046640_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1071220]
+ out=1071220_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1091710]
+ out=1091710_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1484930]
+ out=1484930_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,716930]
+ out=716930_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2848900]
+ out=2848900_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,721030]
+ out=721030_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,864390]
+ out=864390_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1398920]
+ out=1398920_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,520330]
+ out=520330_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,665740]
+ out=665740_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1018000]
+ out=1018000_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1648790]
+ out=1648790_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1853590]
+ out=1853590_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2060440]
+ out=2060440_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,966810]
+ out=966810_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,589980]
+ out=589980_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1648800]
+ out=1648800_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2580640]
+ out=2580640_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1288360]
+ out=1288360_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1853610]
+ out=1853610_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1589420]
+ out=1589420_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,665780]
+ out=665780_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1247430]
+ out=1247430_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,438470]
+ out=438470_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,205000]
+ out=205000_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,391370]
+ out=391370_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,803020]
+ out=803020_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2848980]
+ out=2848980_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1665240]
+ out=1665240_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1894620]
+ out=1894620_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2963680]
+ out=2963680_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1667300]
+ out=1667300_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1853670]
+ out=1853670_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1589480]
+ out=1589480_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3211500]
+ out=3211500_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,569580]
+ out=569580_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,786670]
+ out=786670_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2885880]
+ out=2885880_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2699520]
+ out=2699520_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,665860]
+ out=665860_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2072840]
+ out=2072840_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,665870]
+ out=665870_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1853710]
+ out=1853710_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,663830]
+ out=663830_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,532760]
+ out=532760_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,586010]
+ out=586010_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,137500]
+ out=137500_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3295520]
+ out=3295520_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,622890]
+ out=622890_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1218860]
+ out=1218860_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1587510]
+ out=1587510_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2957630]
+ out=2957630_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,315710]
+ out=315710_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,512320]
+ out=512320_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1089860]
+ out=1089860_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3242310]
+ out=3242310_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1218890]
+ out=1218890_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,563540]
+ out=563540_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2072920]
+ out=2072920_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1218910]
+ out=1218910_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,743780]
+ out=743780_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,514410]
+ out=514410_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2933100]
+ out=2933100_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1976690]
+ out=1976690_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1014130]
+ out=1014130_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,461180]
+ out=461180_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1956220]
+ out=1956220_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1098110]
+ out=1098110_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,323970]
+ out=323970_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,309640]
+ out=309640_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,647560]
+ out=647560_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1892750]
+ out=1892750_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,518550]
+ out=518550_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2933150]
+ out=2933150_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3211680]
+ out=3211680_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1071520]
+ out=1071520_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,686500]
+ out=686500_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2398630]
+ out=2398630_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,575910]
+ out=575910_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2933160]
+ out=2933160_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,156070]
+ out=156070_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3211690]
+ out=3211690_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1743280]
+ out=1743280_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2390450]
+ out=2390450_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1597880]
+ out=1597880_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2073020]
+ out=2073020_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2073030]
+ out=2073030_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1587660]
+ out=1587660_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1632720]
+ out=1632720_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3295700]
+ out=3295700_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1976790]
+ out=1976790_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2617820]
+ out=2617820_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1483240]
+ out=1483240_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,512490]
+ out=512490_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,686570]
+ out=686570_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3295730]
+ out=3295730_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1098240]
+ out=1098240_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1731080]
+ out=1731080_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,272910]
+ out=272910_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1853980]
+ out=1853980_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,145950]
+ out=145950_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3295780]
+ out=3295780_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1729060]
+ out=1729060_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,696880]
+ out=696880_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,721460]
+ out=721460_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3295800]
+ out=3295800_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1290820]
+ out=1290820_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3351110]
+ out=3351110_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2800210]
+ out=2800210_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1317460]
+ out=1317460_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2835030]
+ out=2835030_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3351130]
+ out=3351130_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3295840]
+ out=3295840_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1245800]
+ out=1245800_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1317480]
+ out=1317480_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1020530]
+ out=1020530_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1290870]
+ out=1290870_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3351160]
+ out=3351160_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,754300]
+ out=754300_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,377470]
+ out=377470_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1485440]
+ out=1485440_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1618560]
+ out=1618560_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2617990]
+ out=2617990_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1974920]
+ out=1974920_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,563850]
+ out=563850_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,801420]
+ out=801420_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,721550]
+ out=721550_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1358480]
+ out=1358480_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,938640]
+ out=938640_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3351190]
+ out=3351190_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3211930]
+ out=3211930_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,565920]
+ out=565920_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3351200]
+ out=3351200_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3211940]
+ out=3211940_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1317550]
+ out=1317550_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,580270]
+ out=580270_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,377520]
+ out=377520_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3211960]
+ out=3211960_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,512700]
+ out=512700_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3351230]
+ out=3351230_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2073280]
+ out=2073280_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,133830]
+ out=133830_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,893640]
+ out=893640_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,148170]
+ out=148170_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2984650]
+ out=2984650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,133840]
+ out=133840_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1587920]
+ out=1587920_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3351250]
+ out=3351250_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1018580]
+ out=1018580_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1284820]
+ out=1284820_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1317600]
+ out=1317600_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,821990]
+ out=821990_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3212010]
+ out=3212010_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,518900]
+ out=518900_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2419450]
+ out=2419450_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1389310]
+ out=1389310_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3377920]
+ out=3377920_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1956610]
+ out=1956610_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1317640]
+ out=1317640_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,971530]
+ out=971530_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1444620]
+ out=1444620_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,711440]
+ out=711440_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1239830]
+ out=1239830_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1317660]
+ out=1317660_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,174880]
+ out=174880_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,156460]
+ out=156460_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2618160]
+ out=2618160_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1332020]
+ out=1332020_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,801600]
+ out=801600_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,392000]
+ out=392000_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,181070]
+ out=181070_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,834390]
+ out=834390_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,721760]
+ out=721760_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,967520]
+ out=967520_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1823590]
+ out=1823590_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1098600]
+ out=1098600_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1057660]
+ out=1057660_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310140]
+ out=310140_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,854910]
+ out=854910_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,148350]
+ out=148350_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1360770]
+ out=1360770_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,156550]
+ out=156550_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,824200]
+ out=824200_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1622920]
+ out=1622920_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1072010]
+ out=1072010_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2714510]
+ out=2714510_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,670610]
+ out=670610_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,818070]
+ out=818070_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1670041]
+ out=1670041_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2421660]
+ out=2421660_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,670630]
+ out=670630_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,181160]
+ out=181160_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2073540]
+ out=2073540_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1143750]
+ out=1143750_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,697300]
+ out=697300_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,125910]
+ out=125910_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1729500]
+ out=1729500_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,697310]
+ out=697310_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,154590]
+ out=154590_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,125920]
+ out=125920_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2759650]
+ out=2759650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2073570]
+ out=2073570_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3345380]
+ out=3345380_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,670690]
+ out=670690_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1729510]
+ out=1729510_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3210220]
+ out=3210220_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3343350]
+ out=3343350_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,521210]
+ out=521210_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2214910]
+ out=2214910_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1070080]
+ out=1070080_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,551940]
+ out=551940_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1317900]
+ out=1317900_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1666060]
+ out=1666060_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1893390]
+ out=1893390_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1668110]
+ out=1668110_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,326680]
+ out=326680_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,154650]
+ out=154650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1244190]
+ out=1244190_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,672800]
+ out=672800_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,744480]
+ out=744480_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,664610]
+ out=664610_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1729570]
+ out=1729570_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,154660]
+ out=154660_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310310]
+ out=310310_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1012780]
+ out=1012780_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1485870]
+ out=1485870_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1397810]
+ out=1397810_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3296310]
+ out=3296310_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1995830]
+ out=1995830_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1510460]
+ out=1510460_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3296320]
+ out=3296320_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1213510]
+ out=1213510_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1676380]
+ out=1676380_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3296350]
+ out=3296350_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3142750]
+ out=3142750_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1729640]
+ out=1729640_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1846380]
+ out=1846380_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,693360]
+ out=693360_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,154770]
+ out=154770_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310420]
+ out=310420_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2022550]
+ out=2022550_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1318040]
+ out=1318040_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1791130]
+ out=1791130_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1332380]
+ out=1332380_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,154780]
+ out=154780_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310430]
+ out=310430_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1873060]
+ out=1873060_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1957030]
+ out=1957030_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310440]
+ out=310440_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1139880]
+ out=1139880_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,748720]
+ out=748720_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2073780]
+ out=2073780_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,701630]
+ out=701630_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310470]
+ out=310470_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1098960]
+ out=1098960_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,701650]
+ out=701650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2884820]
+ out=2884820_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,298200]
+ out=298200_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310490]
+ out=310490_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1977570]
+ out=1977570_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310500]
+ out=310500_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310510]
+ out=310510_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2073840]
+ out=2073840_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,509170]
+ out=509170_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3296510]
+ out=3296510_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2950400]
+ out=2950400_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1631490]
+ out=1631490_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,857350]
+ out=857350_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1318150]
+ out=1318150_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2395400]
+ out=2395400_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,275720]
+ out=275720_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310540]
+ out=310540_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,308500]
+ out=308500_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,513300]
+ out=513300_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1846550]
+ out=1846550_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310550]
+ out=310550_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1975580]
+ out=1975580_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310570]
+ out=310570_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1529130]
+ out=1529130_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1318190]
+ out=1318190_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1115440]
+ out=1115440_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1289520]
+ out=1289520_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1588530]
+ out=1588530_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,300340]
+ out=300340_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1115450]
+ out=1115450_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,300350]
+ out=300350_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,662850]
+ out=662850_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1115460]
+ out=1115460_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,322890]
+ out=322890_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1318220]
+ out=1318220_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1852750]
+ out=1852750_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,154960]
+ out=154960_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1314130]
+ out=1314130_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,322900]
+ out=322900_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1115490]
+ out=1115490_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1025380]
+ out=1025380_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1432940]
+ out=1432940_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,308590]
+ out=308590_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310640]
+ out=310640_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2522480]
+ out=2522480_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1115520]
+ out=1115520_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1283460]
+ out=1283460_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1318280]
+ out=1318280_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1668491]
+ out=1668491_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,953740]
+ out=953740_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,591250]
+ out=591250_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1318290]
+ out=1318290_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1115540]
+ out=1115540_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1314200]
+ out=1314200_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,322970]
+ out=322970_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,308640]
+ out=308640_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,556450]
+ out=556450_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1459640]
+ out=1459640_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,323000]
+ out=323000_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,681420]
+ out=681420_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1318350]
+ out=1318350_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1463770]
+ out=1463770_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1222110]
+ out=1222110_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,835040]
+ out=835040_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1590760]
+ out=1590760_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1529320]
+ out=1529320_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1674730]
+ out=1674730_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,308720]
+ out=308720_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1588720]
+ out=1588720_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,171520]
+ out=171520_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1314310]
+ out=1314310_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310790]
+ out=310790_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1072650]
+ out=1072650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,654860]
+ out=654860_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310800]
+ out=310800_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,325140]
+ out=325140_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1588760]
+ out=1588760_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310810]
+ out=310810_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2618910]
+ out=2618910_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,308770]
+ out=308770_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310820]
+ out=310820_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3210790]
+ out=3210790_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1021480]
+ out=1021480_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1312300]
+ out=1312300_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,124460]
+ out=124460_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2993710]
+ out=2993710_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,310830]
+ out=310830_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,859700]
+ out=859700_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,681530]
+ out=681530_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1115710]
+ out=1115710_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,550470]
+ out=550470_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2965070]
+ out=2965070_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,943721]
+ out=943721_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,136810]
+ out=136810_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1072750]
+ out=1072750_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,136820]
+ out=136820_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3372660]
+ out=3372660_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1687160]
+ out=1687160_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,943741]
+ out=943741_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,136830]
+ out=136830_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,159360]
+ out=159360_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,284290]
+ out=284290_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1091210]
+ out=1091210_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2948760]
+ out=2948760_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1705630]
+ out=1705630_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,824990]
+ out=824990_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1484450]
+ out=1484450_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1894050]
+ out=1894050_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2080420]
+ out=2080420_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2848420]
+ out=2848420_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1894060]
+ out=1894060_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1705650]
+ out=1705650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3241650]
+ out=3241650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3049140]
+ out=3049140_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,138950]
+ out=138950_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2901710]
+ out=2901710_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,802510]
+ out=802510_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,825040]
+ out=825040_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,192210]
+ out=192210_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,155350]
+ out=155350_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2582250]
+ out=2582250_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1705710]
+ out=1705710_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1433340]
+ out=1433340_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1705730]
+ out=1705730_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1845000]
+ out=1845000_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1705740]
+ out=1705740_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,569100]
+ out=569100_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1115930]
+ out=1115930_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,747290]
+ out=747290_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,519970]
+ out=519970_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,134950]
+ out=134950_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,651050]
+ out=651050_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,747310]
+ out=747310_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,827190]
+ out=827190_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2449210]
+ out=2449210_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,323390]
+ out=323390_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,747330]
+ out=747330_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1318740]
+ out=1318740_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,517990]
+ out=517990_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3211110]
+ out=3211110_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,384890]
+ out=384890_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,139150]
+ out=139150_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1290150]
+ out=1290150_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,894890]
+ out=894890_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1140650]
+ out=1140650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1935280]
+ out=1935280_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1353650]
+ out=1353650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,720820]
+ out=720820_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,460730]
+ out=460730_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1976250]
+ out=1976250_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,872380]
+ out=872380_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,518080]
+ out=518080_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1337280]
+ out=1337280_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1155010]
+ out=1155010_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,3211200]
+ out=3211200_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1155020]
+ out=1155020_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1527760]
+ out=1527760_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2072530]
+ out=2072530_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,505820]
+ out=505820_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,862180]
+ out=862180_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1978340]
+ out=1978340_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,1648620]
+ out=1648620_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2815980]
+ out=2815980_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,753650]
+ out=753650_s1d.fits
+http://atlas.obs-hp.fr/sophie/sophie.cgi?c=i&a=mime:application/fits&o=sophie:[s1d,2072570]
+ out=2072570_s1d.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040117_0037
+ out=elodie_20040117_0037.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960311_0023
+ out=elodie_19960311_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010807_0011
+ out=elodie_20010807_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990606_0021
+ out=elodie_19990606_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980705_0011
+ out=elodie_19980705_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041206_0023
+ out=elodie_20041206_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960204_0031
+ out=elodie_19960204_0031.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060403_0032
+ out=elodie_20060403_0032.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050131_0045
+ out=elodie_20050131_0045.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990602_0030
+ out=elodie_19990602_0030.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960311_0024
+ out=elodie_19960311_0024.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0028
+ out=elodie_20010805_0028.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060403_0027
+ out=elodie_20060403_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060204_0036
+ out=elodie_20060204_0036.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19951130_0014
+ out=elodie_19951130_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20011221_0017
+ out=elodie_20011221_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020128_0021
+ out=elodie_20020128_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960203_0008
+ out=elodie_19960203_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990605_0021
+ out=elodie_19990605_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19941113_0041
+ out=elodie_19941113_0041.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970321_0013
+ out=elodie_19970321_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020127_0010
+ out=elodie_20020127_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060405_0021
+ out=elodie_20060405_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041205_0034
+ out=elodie_20041205_0034.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19950607_0017
+ out=elodie_19950607_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041203_0034
+ out=elodie_20041203_0034.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060406_0013
+ out=elodie_20060406_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980707_0008
+ out=elodie_19980707_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040118_0035
+ out=elodie_20040118_0035.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000615_0024
+ out=elodie_20000615_0024.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980115_0027
+ out=elodie_19980115_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001111_0012
+ out=elodie_20001111_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19950607_0020
+ out=elodie_19950607_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041206_0007
+ out=elodie_20041206_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19940717_0023
+ out=elodie_19940717_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040114_0043
+ out=elodie_20040114_0043.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050131_0053
+ out=elodie_20050131_0053.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001114_0014
+ out=elodie_20001114_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040520_0037
+ out=elodie_20040520_0037.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041203_0017
+ out=elodie_20041203_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041204_0016
+ out=elodie_20041204_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960205_0019
+ out=elodie_19960205_0019.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040103_0016
+ out=elodie_20040103_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980710_0014
+ out=elodie_19980710_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041204_0009
+ out=elodie_20041204_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19991216_0034
+ out=elodie_19991216_0034.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040522_0017
+ out=elodie_20040522_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060403_0025
+ out=elodie_20060403_0025.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960728_0014
+ out=elodie_19960728_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980906_0020
+ out=elodie_19980906_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990710_0019
+ out=elodie_19990710_0019.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990709_0017
+ out=elodie_19990709_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970831_0027
+ out=elodie_19970831_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041203_0032
+ out=elodie_20041203_0032.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001110_0035
+ out=elodie_20001110_0035.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041206_0029
+ out=elodie_20041206_0029.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0017
+ out=elodie_20010805_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19940918_0037
+ out=elodie_19940918_0037.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960726_0009
+ out=elodie_19960726_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980708_0013
+ out=elodie_19980708_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19941118_0012
+ out=elodie_19941118_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980125_0009
+ out=elodie_19980125_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041107_0044
+ out=elodie_20041107_0044.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060407_0045
+ out=elodie_20060407_0045.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990429_0046
+ out=elodie_19990429_0046.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050222_0011
+ out=elodie_20050222_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960728_0011
+ out=elodie_19960728_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040104_0010
+ out=elodie_20040104_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050224_0012
+ out=elodie_20050224_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960502_0032
+ out=elodie_19960502_0032.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0010
+ out=elodie_20010806_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020122_0010
+ out=elodie_20020122_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020119_0009
+ out=elodie_20020119_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20051206_0017
+ out=elodie_20051206_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000821_0005
+ out=elodie_20000821_0005.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980703_0017
+ out=elodie_19980703_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001008_0011
+ out=elodie_20001008_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980320_0028
+ out=elodie_19980320_0028.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040520_0036
+ out=elodie_20040520_0036.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970706_0009
+ out=elodie_19970706_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0025
+ out=elodie_20010806_0025.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19950219_0006
+ out=elodie_19950219_0006.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050203_0021
+ out=elodie_20050203_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041206_0019
+ out=elodie_20041206_0019.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041205_0029
+ out=elodie_20041205_0029.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041206_0026
+ out=elodie_20041206_0026.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010810_0007
+ out=elodie_20010810_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19941118_0010
+ out=elodie_19941118_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19941117_0007
+ out=elodie_19941117_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000519_0020
+ out=elodie_20000519_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0018
+ out=elodie_20010806_0018.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19950907_0008
+ out=elodie_19950907_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041205_0018
+ out=elodie_20041205_0018.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050131_0057
+ out=elodie_20050131_0057.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19950819_0006
+ out=elodie_19950819_0006.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040428_0029
+ out=elodie_20040428_0029.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020328_0020
+ out=elodie_20020328_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19940924_0018
+ out=elodie_19940924_0018.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20031105_0052
+ out=elodie_20031105_0052.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010827_0008
+ out=elodie_20010827_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060406_0045
+ out=elodie_20060406_0045.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060624_0017
+ out=elodie_20060624_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010804_0013
+ out=elodie_20010804_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000520_0011
+ out=elodie_20000520_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040512_0021
+ out=elodie_20040512_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0016
+ out=elodie_20010805_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041205_0032
+ out=elodie_20041205_0032.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19951009_0010
+ out=elodie_19951009_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000716_0017
+ out=elodie_20000716_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040102_0010
+ out=elodie_20040102_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980127_0016
+ out=elodie_19980127_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990707_0021
+ out=elodie_19990707_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000818_0009
+ out=elodie_20000818_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020128_0034
+ out=elodie_20020128_0034.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000124_0027
+ out=elodie_20000124_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19950907_0007
+ out=elodie_19950907_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990708_0014
+ out=elodie_19990708_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960203_0021
+ out=elodie_19960203_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041204_0027
+ out=elodie_20041204_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0019
+ out=elodie_20010806_0019.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010828_0011
+ out=elodie_20010828_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0031
+ out=elodie_20010806_0031.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010804_0016
+ out=elodie_20010804_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050206_0014
+ out=elodie_20050206_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000715_0012
+ out=elodie_20000715_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000521_0014
+ out=elodie_20000521_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040210_0006
+ out=elodie_20040210_0006.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20011128_0017
+ out=elodie_20011128_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000520_0013
+ out=elodie_20000520_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19941220_0049
+ out=elodie_19941220_0049.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060407_0041
+ out=elodie_20060407_0041.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060405_0013
+ out=elodie_20060405_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20030113_0026
+ out=elodie_20030113_0026.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060406_0014
+ out=elodie_20060406_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060531_0017
+ out=elodie_20060531_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040104_0019
+ out=elodie_20040104_0019.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19950818_0013
+ out=elodie_19950818_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960205_0017
+ out=elodie_19960205_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060522_0019
+ out=elodie_20060522_0019.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040519_0017
+ out=elodie_20040519_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041110_0035
+ out=elodie_20041110_0035.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020124_0024
+ out=elodie_20020124_0024.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060406_0046
+ out=elodie_20060406_0046.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040512_0012
+ out=elodie_20040512_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010903_0028
+ out=elodie_20010903_0028.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001110_0026
+ out=elodie_20001110_0026.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041203_0026
+ out=elodie_20041203_0026.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060421_0034
+ out=elodie_20060421_0034.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041111_0022
+ out=elodie_20041111_0022.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040213_0023
+ out=elodie_20040213_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050727_0021
+ out=elodie_20050727_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050131_0040
+ out=elodie_20050131_0040.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001219_0030
+ out=elodie_20001219_0030.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050203_0013
+ out=elodie_20050203_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980913_0007
+ out=elodie_19980913_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000606_0018
+ out=elodie_20000606_0018.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020328_0021
+ out=elodie_20020328_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0023
+ out=elodie_20010805_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960415_0020
+ out=elodie_19960415_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001110_0053
+ out=elodie_20001110_0053.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20051205_0027
+ out=elodie_20051205_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040523_0014
+ out=elodie_20040523_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960311_0022
+ out=elodie_19960311_0022.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970831_0033
+ out=elodie_19970831_0033.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040215_0023
+ out=elodie_20040215_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040328_0028
+ out=elodie_20040328_0028.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960727_0009
+ out=elodie_19960727_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000817_0013
+ out=elodie_20000817_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020328_0017
+ out=elodie_20020328_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19940924_0013
+ out=elodie_19940924_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040725_0012
+ out=elodie_20040725_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970319_0013
+ out=elodie_19970319_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20030114_0038
+ out=elodie_20030114_0038.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060403_0024
+ out=elodie_20060403_0024.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001006_0011
+ out=elodie_20001006_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000519_0009
+ out=elodie_20000519_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060618_0014
+ out=elodie_20060618_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050131_0027
+ out=elodie_20050131_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19941117_0009
+ out=elodie_19941117_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060521_0033
+ out=elodie_20060521_0033.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001110_0048
+ out=elodie_20001110_0048.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19951129_0008
+ out=elodie_19951129_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990213_0013
+ out=elodie_19990213_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060602_0008
+ out=elodie_20060602_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060403_0031
+ out=elodie_20060403_0031.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020128_0015
+ out=elodie_20020128_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990606_0024
+ out=elodie_19990606_0024.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001219_0023
+ out=elodie_20001219_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010807_0013
+ out=elodie_20010807_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20051025_0018
+ out=elodie_20051025_0018.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0025
+ out=elodie_20010805_0025.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060601_0020
+ out=elodie_20060601_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0030
+ out=elodie_20010806_0030.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050130_0052
+ out=elodie_20050130_0052.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20030511_0010
+ out=elodie_20030511_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000615_0023
+ out=elodie_20000615_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001110_0036
+ out=elodie_20001110_0036.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060618_0019
+ out=elodie_20060618_0019.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040702_0008
+ out=elodie_20040702_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060308_0030
+ out=elodie_20060308_0030.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20051010_0013
+ out=elodie_20051010_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010629_0009
+ out=elodie_20010629_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010412_0033
+ out=elodie_20010412_0033.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010807_0012
+ out=elodie_20010807_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041113_0030
+ out=elodie_20041113_0030.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020803_0007
+ out=elodie_20020803_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990722_0010
+ out=elodie_19990722_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040725_0013
+ out=elodie_20040725_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000726_0028
+ out=elodie_20000726_0028.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000615_0006
+ out=elodie_20000615_0006.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20030111_0022
+ out=elodie_20030111_0022.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010823_0016
+ out=elodie_20010823_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000615_0009
+ out=elodie_20000615_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990601_0017
+ out=elodie_19990601_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060407_0015
+ out=elodie_20060407_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19951009_0014
+ out=elodie_19951009_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001110_0050
+ out=elodie_20001110_0050.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060403_0015
+ out=elodie_20060403_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20030214_0020
+ out=elodie_20030214_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020125_0019
+ out=elodie_20020125_0019.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19941117_0012
+ out=elodie_19941117_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19961128_0057
+ out=elodie_19961128_0057.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20051126_0035
+ out=elodie_20051126_0035.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060809_0014
+ out=elodie_20060809_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19941113_0049
+ out=elodie_19941113_0049.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060311_0071
+ out=elodie_20060311_0071.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960205_0010
+ out=elodie_19960205_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041110_0027
+ out=elodie_20041110_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19961128_0078
+ out=elodie_19961128_0078.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040704_0017
+ out=elodie_20040704_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020126_0015
+ out=elodie_20020126_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970703_0018
+ out=elodie_19970703_0018.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040118_0037
+ out=elodie_20040118_0037.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050421_0042
+ out=elodie_20050421_0042.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041205_0011
+ out=elodie_20041205_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050816_0007
+ out=elodie_20050816_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060406_0042
+ out=elodie_20060406_0042.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050201_0054
+ out=elodie_20050201_0054.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020127_0023
+ out=elodie_20020127_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970708_0014
+ out=elodie_19970708_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060203_0022
+ out=elodie_20060203_0022.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19991221_0010
+ out=elodie_19991221_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041111_0030
+ out=elodie_20041111_0030.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960203_0031
+ out=elodie_19960203_0031.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041203_0035
+ out=elodie_20041203_0035.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960411_0018
+ out=elodie_19960411_0018.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040625_0017
+ out=elodie_20040625_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040412_0010
+ out=elodie_20040412_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041203_0022
+ out=elodie_20041203_0022.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020804_0008
+ out=elodie_20020804_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040409_0009
+ out=elodie_20040409_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041205_0020
+ out=elodie_20041205_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060405_0012
+ out=elodie_20060405_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050206_0010
+ out=elodie_20050206_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020322_0005
+ out=elodie_20020322_0005.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040106_0015
+ out=elodie_20040106_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020126_0012
+ out=elodie_20020126_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0023
+ out=elodie_20010806_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19950218_0010
+ out=elodie_19950218_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040207_0016
+ out=elodie_20040207_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020322_0006
+ out=elodie_20020322_0006.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041204_0019
+ out=elodie_20041204_0019.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040513_0014
+ out=elodie_20040513_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990814_0013
+ out=elodie_19990814_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040523_0015
+ out=elodie_20040523_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960203_0007
+ out=elodie_19960203_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010220_0015
+ out=elodie_20010220_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0028
+ out=elodie_20010806_0028.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960727_0008
+ out=elodie_19960727_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0027
+ out=elodie_20010806_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990721_0014
+ out=elodie_19990721_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960204_0034
+ out=elodie_19960204_0034.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040522_0015
+ out=elodie_20040522_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20051206_0022
+ out=elodie_20051206_0022.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980702_0020
+ out=elodie_19980702_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060623_0012
+ out=elodie_20060623_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040623_0025
+ out=elodie_20040623_0025.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20030123_0006
+ out=elodie_20030123_0006.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060404_0028
+ out=elodie_20060404_0028.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040522_0014
+ out=elodie_20040522_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001216_0012
+ out=elodie_20001216_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010120_0016
+ out=elodie_20010120_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060403_0017
+ out=elodie_20060403_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19951219_0011
+ out=elodie_19951219_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970322_0012
+ out=elodie_19970322_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060406_0041
+ out=elodie_20060406_0041.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960726_0010
+ out=elodie_19960726_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19951009_0011
+ out=elodie_19951009_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990706_0013
+ out=elodie_19990706_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041203_0030
+ out=elodie_20041203_0030.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19941117_0013
+ out=elodie_19941117_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0011
+ out=elodie_20010806_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000726_0040
+ out=elodie_20000726_0040.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0009
+ out=elodie_20010806_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041204_0032
+ out=elodie_20041204_0032.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041204_0026
+ out=elodie_20041204_0026.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040518_0044
+ out=elodie_20040518_0044.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960203_0009
+ out=elodie_19960203_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980614_0018
+ out=elodie_19980614_0018.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960208_0021
+ out=elodie_19960208_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20030123_0008
+ out=elodie_20030123_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020127_0029
+ out=elodie_20020127_0029.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060403_0012
+ out=elodie_20060403_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0021
+ out=elodie_20010805_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970320_0013
+ out=elodie_19970320_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19940718_0007
+ out=elodie_19940718_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960726_0007
+ out=elodie_19960726_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20011007_0007
+ out=elodie_20011007_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060809_0020
+ out=elodie_20060809_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040518_0020
+ out=elodie_20040518_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19940716_0014
+ out=elodie_19940716_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0029
+ out=elodie_20010806_0029.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960203_0011
+ out=elodie_19960203_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020127_0012
+ out=elodie_20020127_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20030121_0007
+ out=elodie_20030121_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20011006_0007
+ out=elodie_20011006_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19981124_0025
+ out=elodie_19981124_0025.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001114_0035
+ out=elodie_20001114_0035.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001110_0051
+ out=elodie_20001110_0051.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960502_0019
+ out=elodie_19960502_0019.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0034
+ out=elodie_20010806_0034.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041204_0020
+ out=elodie_20041204_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020820_0008
+ out=elodie_20020820_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040207_0007
+ out=elodie_20040207_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040207_0014
+ out=elodie_20040207_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040409_0006
+ out=elodie_20040409_0006.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040208_0007
+ out=elodie_20040208_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19950818_0008
+ out=elodie_19950818_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960208_0015
+ out=elodie_19960208_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960203_0012
+ out=elodie_19960203_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970122_0008
+ out=elodie_19970122_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970221_0039
+ out=elodie_19970221_0039.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19941220_0040
+ out=elodie_19941220_0040.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20031106_0028
+ out=elodie_20031106_0028.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0015
+ out=elodie_20010806_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20030124_0009
+ out=elodie_20030124_0009.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041205_0010
+ out=elodie_20041205_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970124_0014
+ out=elodie_19970124_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19970824_0016
+ out=elodie_19970824_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060601_0015
+ out=elodie_20060601_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041204_0015
+ out=elodie_20041204_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0008
+ out=elodie_20010806_0008.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0033
+ out=elodie_20010806_0033.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990604_0023
+ out=elodie_19990604_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060204_0010
+ out=elodie_20060204_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060407_0043
+ out=elodie_20060407_0043.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041203_0027
+ out=elodie_20041203_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040412_0012
+ out=elodie_20040412_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0014
+ out=elodie_20010805_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0032
+ out=elodie_20010805_0032.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19941119_0011
+ out=elodie_19941119_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010806_0021
+ out=elodie_20010806_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060531_0013
+ out=elodie_20060531_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040104_0015
+ out=elodie_20040104_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050131_0062
+ out=elodie_20050131_0062.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040114_0042
+ out=elodie_20040114_0042.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041206_0013
+ out=elodie_20041206_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041203_0029
+ out=elodie_20041203_0029.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990719_0005
+ out=elodie_19990719_0005.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041204_0012
+ out=elodie_20041204_0012.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060601_0018
+ out=elodie_20060601_0018.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19940717_0026
+ out=elodie_19940717_0026.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000520_0010
+ out=elodie_20000520_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041206_0022
+ out=elodie_20041206_0022.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19951009_0007
+ out=elodie_19951009_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19960203_0020
+ out=elodie_19960203_0020.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20030114_0025
+ out=elodie_20030114_0025.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990429_0044
+ out=elodie_19990429_0044.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040326_0058
+ out=elodie_20040326_0058.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990719_0011
+ out=elodie_19990719_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041206_0034
+ out=elodie_20041206_0034.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020127_0016
+ out=elodie_20020127_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0026
+ out=elodie_20010805_0026.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001110_0038
+ out=elodie_20001110_0038.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19990723_0010
+ out=elodie_19990723_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001110_0040
+ out=elodie_20001110_0040.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020125_0026
+ out=elodie_20020125_0026.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060407_0014
+ out=elodie_20060407_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001110_0057
+ out=elodie_20001110_0057.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060404_0025
+ out=elodie_20060404_0025.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041205_0030
+ out=elodie_20041205_0030.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20000521_0013
+ out=elodie_20000521_0013.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040327_0048
+ out=elodie_20040327_0048.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060403_0023
+ out=elodie_20060403_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040214_0028
+ out=elodie_20040214_0028.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010630_0010
+ out=elodie_20010630_0010.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060403_0011
+ out=elodie_20060403_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19950820_0007
+ out=elodie_19950820_0007.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050826_0036
+ out=elodie_20050826_0036.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001110_0059
+ out=elodie_20001110_0059.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19940918_0035
+ out=elodie_19940918_0035.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20050203_0016
+ out=elodie_20050203_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0027
+ out=elodie_20010805_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980128_0017
+ out=elodie_19980128_0017.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040428_0027
+ out=elodie_20040428_0027.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0030
+ out=elodie_20010805_0030.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060403_0021
+ out=elodie_20060403_0021.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:19980217_0023
+ out=elodie_19980217_0023.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20020803_0015
+ out=elodie_20020803_0015.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010629_0016
+ out=elodie_20010629_0016.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060531_0018
+ out=elodie_20060531_0018.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20040518_0043
+ out=elodie_20040518_0043.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041204_0022
+ out=elodie_20041204_0022.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20010805_0022
+ out=elodie_20010805_0022.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20060602_0011
+ out=elodie_20060602_0011.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20041204_0014
+ out=elodie_20041204_0014.fits
+http://atlas.obs-hp.fr/elodie/fE.cgi?n=e500&c=i&z=s1d&a=mime:application/fits&o=elodie:20001114_0030
+ out=elodie_20001114_0030.fits
