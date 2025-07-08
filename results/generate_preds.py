@@ -10,7 +10,7 @@ from torch import nn
 import torch.nn.functional as F
 from torch.utils.data import TensorDataset, DataLoader
 
-hdul = fits.open('data/dataset3_subset2.fits')
+hdul = fits.open('data/dataset_subset.fits')
 dataset = hdul[1].data
 hdul.close()
 
@@ -49,12 +49,10 @@ torch.manual_seed(1337)
 torch.cuda.manual_seed(1337)
 torch.cuda.manual_seed_all(1337)
 
-folder_name = 'final7_starclassifier4_test'
-path = f'models/weights/conv1d/cls/{folder_name}'
-best_i = 148
+path = f'models/weights/best_conv1d-v2_148.pth.tar'
 
 classifier3 = StarClassifier4(**model_config).to('cuda')
-classifier3.load_state_dict(torch.load(f'{path}/best_conv1d_cls_{best_i}.pth.tar'))
+classifier3.load_state_dict(torch.load(path))
 
 print('Number of parameters in conv1d best:')
 num_param = sum(x.numel() for x in classifier3.parameters())
@@ -110,16 +108,14 @@ ultimate_dict.update({'conv1d_no_ord': out_dict})
 # %%
 from models.conv1d import ResNet1D50
 
-folder_name = 'resnet_test2'
-path = f'models/weights/conv1d/cls/{folder_name}'
-best_i = 172
+path = f'models/weights/best_resnet50_172.pth.tar'
 
 classifier3 = ResNet1D50(
     num_classes=len(label_f.unique),
     in_channels=1
     ).to('cuda')
     
-classifier3.load_state_dict(torch.load(f'{path}/best_conv1d_cls_{best_i}.pth.tar'))
+classifier3.load_state_dict(torch.load(path))
 
 print('Number of parameters in resnet50_1d:')
 num_param = sum(x.numel() for x in classifier3.parameters())
@@ -142,11 +138,10 @@ model_config = {'filter_sizes':fs,
                 'dropout':0,
                 'final_set':False}
 
-path = 'models/weights/conv1d/cls/final6_test'
-best_i = 44
+path = 'models/weights/best_conv1d_v1_44.pth.tar'
 
 classifier3 = StarClassifier2(**model_config).to('cuda')
-classifier3.load_state_dict(torch.load(f'{path}/best_conv1d_cls_{best_i}.pth.tar'))
+classifier3.load_state_dict(torch.load(path))
 
 print('Number of parameters in conv1d_old:')
 num_param = sum(x.numel() for x in classifier3.parameters())
@@ -205,12 +200,10 @@ model_config = {
 
 model = SimpleConvKAN(**model_config).cuda()
 
-folder_name = 'kan_conv_test'
-path = f'models/weights/conv1d/cls/{folder_name}'
-best_i = 140
+path = f'models/weights/best_conv_kan_140.pth.tar'
 
 classifier3 = SimpleConvKAN(**model_config).to('cuda')
-classifier3.load_state_dict(torch.load(f'{path}/best_conv_kan{best_i}.pth.tar'))
+classifier3.load_state_dict(torch.load(path))
 
 print('Number of parameters in kan_conv:')
 num_param = sum(x.numel() for x in classifier3.parameters())
@@ -235,12 +228,10 @@ model_config = {
     'num_classes': len(label_f.unique)
 }
 
-folder_name = 'convtran_test3'
-path = f'models/weights/convtran/{folder_name}'
-best_i = 92
+path = 'models/weights/best_convtran_92.pth.tar'
 
 classifier3 = ConvTran(model_config).to('cuda')
-classifier3.load_state_dict(torch.load(f'{path}/best_convtran{best_i}.pth.tar'))
+classifier3.load_state_dict(torch.load(path))
 
 print('Number of parameters in conv_tran:')
 num_param = sum(x.numel() for x in classifier3.parameters())
@@ -267,6 +258,5 @@ ultimate_dict.update({'convtran': out_dict})
 # %%
 #import pickle 
 #
-#with open('ultimate_dict.pkl', 'wb') as f:
+#with open('results/predictions.pkl', 'wb') as f:
 #    pickle.dump(ultimate_dict, f)
-# %%

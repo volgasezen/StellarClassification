@@ -1,31 +1,17 @@
 # Joint MK Classification of Stellar Spectra with Distance-Aware CNNs
 
-This repository hosts code and other resources to reproduce the dataset compilation from public sets, training and evaluating models as well as extended figures and results.
+This repository hosts code and other resources to reproduce the dataset compiled from public sets, training and evaluating models. We also share our dataset, model weights, extended figures and results.
 
-## Dataset
+## Authors
+* Volga Sezen[^1]
+* Alptekin Temizel[^1]
 
-Our dataset is made up of 5 spectral series from four observatory surveys.
+[^1]Middle East Technical University, Graduate School of Informatics, Ankara, Turkey
 
-| Telescope | Location | Series | Spectral<br>Resolution | Wavelength<br>Coverage | Number of <br>Observations | Subset |
-|---|---|---|---|---|---|---|
-| Sloan Foundation 2.5m | Apache Point Observatory, <br>New Mexico, USA | SDSS | 1.47 Å | 3621-10353 Å | 1736 | 699 |
-| Coudé Feed 0.9m | Kitt Peak National <br>Observatory, Arizona, USA | CFLIB | 0.4 Å | 3465-9469 Å | 1167 | 805 |
-| 1.93m | Observatoire de <br>Haute-Provence, France | ELODIE | 0.05 Å | 4000-6800 Å | 6285 | 3263 |
-|  |  | SOPHIE | 0.01 Å | 3872-6944 Å | 7652 | 3551 |
-| VLT Unit 2 8.2m | Atacama Desert, Chile | XSL | 0.17 Å | 3500-9939 Å | 680 | 304 |
-|  | Unified Series |  | 1.21 Å | 4000-6800 Å | 17520 | 8622 |
 
-The data was subseted to remove observations with:
-* rare spectral types outside O-M
-* no luminosity class / low quality label (E)
-* missing more than 1% of observations
-* extreme emission features (normalized values bigger than 4)
-* extreme radial velocities (if the resulting doppler shift is >2 pixels)
-* double stars and binaries
+## [Dataset](https://github.com/volgasezen/StellarClassification/tree/main/data)
 
-Resulting subset had this class distribution in the 2d grid:
-
-![Class distribution of subset.](img/dataset_dist.png "Dataset Distribution")
+Our dataset is made up of 5 spectral series from four observatory surveys. Datasets are shared as .fits files which can be read with [`astropy.io.fits`](https://docs.astropy.org/en/stable/io/fits/).
 
 ## Models
 
@@ -131,6 +117,6 @@ Detailed results with confusion matrices and individual-class scores are shared 
 | MIII | 0.877551 | 1.000000 | 0.934783 | 43 |
 | MV | 0.978070 | 0.961207 | 0.969565 | 232 |
 | MVI | 0.000000 | 0.000000 | 0.000000 | 1 |
-| accuracy | 0.759846 | 0.759846 | 0.759846 | 0.759846 |
+| accuracy | 0.759846 | | | |
 | macro avg | 0.674079 | 0.696698 | 0.676718 | 1295 |
 | weighted avg | 0.775780 | 0.759846 | 0.764508 | 1295 |
