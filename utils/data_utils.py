@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 from scipy.ndimage import gaussian_filter1d, median_filter
 from scipy.interpolate import CubicSpline
-from suppnet.suppnet.NN_utility import get_suppnet, density_norm
+# from suppnet.suppnet.NN_utility import get_suppnet, density_norm
 from tqdm import tqdm
 import os, sys
 
@@ -67,7 +67,7 @@ def class_splitter(data, *args):
 class spectra_processing:
     def __init__(self, exclude: list = ''):
         
-        x = np.load('wave_grids.npz')
+        x = np.load('data/wave_grids.npz')
         self.names = [*x]
 
         if exclude:

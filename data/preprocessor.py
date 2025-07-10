@@ -13,7 +13,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from astropy.io import fits
 
-from data_utils import spectra_processing
+from utils.data_utils import spectra_processing
 
 # %%
 
@@ -36,7 +36,7 @@ xsl_ids = xsl['NAME']
 
 #SDSS
 
-# hdul = fits.open('data/MaSTAR/mastar-combspec-v3_1_1-v1_7_7-lsfpercent99.5.fits.gz')
+# hdul = fits.open('data/source/MaSTAR/mastar-combspec-v3_1_1-v1_7_7-lsfpercent99.5.fits.gz')
 # sdss_v0 = hdul[1].data
 # cols = hdul[1].columns
 # hdul.close()

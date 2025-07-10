@@ -25,7 +25,7 @@ The data was subseted to remove observations with:
 
 Resulting subset had this class distribution in the 2d grid:
 
-![Class distribution of subset.](img/dataset_dist.png "Dataset Distribution")
+![Class distribution of subset.](../img/dataset_dist.png "Dataset Distribution")
 
 ## Acknowledgements of Data Sources
 * Sloan Digital Sky Survey (SDSS-IV) MaNGA Stellar Library (MaStar)

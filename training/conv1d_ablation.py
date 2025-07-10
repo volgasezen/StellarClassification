@@ -1,6 +1,4 @@
 # %%
-import os
-os.chdir('/home/oban/Desktop/Volga/stellar-classification')
 import numpy as np
 import pandas as pd
 from astropy.io import fits
@@ -17,16 +15,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, classification_report
 
 # %%
-hdul = fits.open('data/dataset3_subset2.fits')
-hdul1 = fits.open('data/dataset_subset4.fits')
+hdul = fits.open('data/dataset_subset.fits')
 dataset = hdul[1].data
-dataset_old = hdul1[1].data
 hdul.close()
-hdul1.close()
 
-problem = np.where((dataset_old.TYPED_ID == "HD134439") | 
-                   (dataset_old.TYPED_ID == "Ross  889"))
-dataset_old = np.delete(dataset_old, problem)
 # %%
 # trsvchn's answer on stackoverflow at: https://stackoverflow.com/questions/55588201/pytorch-transforms-on-tensordataset
 

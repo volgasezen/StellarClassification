@@ -6,7 +6,7 @@ This repository hosts code and other resources to reproduce the dataset compiled
 * Volga Sezen[^1]
 * Alptekin Temizel[^1]
 
-[^1]Middle East Technical University, Graduate School of Informatics, Ankara, Turkey
+[^1]:Middle East Technical University, Graduate School of Informatics, Ankara, Turkey
 
 
 ## [Dataset](https://github.com/volgasezen/StellarClassification/tree/main/data)

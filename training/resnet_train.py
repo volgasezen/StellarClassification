@@ -1,5 +1,4 @@
 # %%
-os.chdir('/home/oban/Desktop/Volga/stellar-classification')
 import numpy as np
 import pandas as pd
 from astropy.io import fits
@@ -19,7 +18,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 
 # %%
 
-hdul = fits.open('data/dataset3_subset2.fits')
+hdul = fits.open('data/dataset_subset.fits')
 dataset = hdul[1].data
 hdul.close()
 
