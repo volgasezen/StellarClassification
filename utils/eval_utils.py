@@ -80,31 +80,45 @@ class label_field:
     def from_str(self,arr,idx):
         return np.vectorize(self.__str_degen__)(arr, idx)
     
+    def conv_num(self, x):
+        if 3.5 <= x < 4: 
+            return np.floor(x)
+        elif 4 <= x < 5: 
+            return np.floor(x)+1 
+        else: 
+            return np.round(x)
+
     def to_class(self,arr,str,idx):
+        if ~isinstance(arr, np.ndarray):
+            arr = np.array(arr)
+
         arr[arr > 6] = 6
-        arr = np.round(arr)
+        spec = np.floor(arr[:,0])
+        spec[spec < 0] = 0
 
-        idx = arr[:,0] == 6
+        sub = np.floor(arr[:,0]*10 % 10)
 
-        lum_class = arr[:,1]
-        lum_class[lum_class < 1] = 1
-        lum_class -= 1
-
-        unique_lum = np.sort(np.unique(lum_class[idx]))
-
-        if any(np.diff(unique_lum) != 1):
-            loc = unique_lum[unique_lum == 2]
-            lum_class[idx][lum_class[idx] > loc] -= loc-1
-
-        arr[:,1] = lum_class
+        lum = arr[:,1]
+        m6 = spec == 6
+        lum[m6] = np.vectorize(self.conv_num)(lum[m6])
+        lum[~m6] = np.round(lum[~m6])
+        sd_gk = (spec == 4) | (spec == 5)
+        lum[sd_gk & (lum > 5)] = 5
+        lum[lum < 1] = 1
+        lum -= 1
 
         scale = np.array([10,1])
-        ordi = np.sum(arr*scale,axis=1)
+        ordi = np.sum(np.vstack([spec, lum]).T*scale,axis=1)
 
         if str:
-            return(self.to_str(ordi, idx=False))
+            main = self.to_str(ordi, idx=False)
+            w_sub = [x[:1]+str(y)+x[1:] for x,y in zip(main, sub)]
+            return w_sub
         else:
-            return ordi
+            if idx:
+                return self.ord_to_idx(ordi)
+            else:
+                return ordi
 
     def to_regr(self,arr,idx):
         if idx:
@@ -136,11 +150,14 @@ class stellar_metrics:
             values = label_conv.classes
 
         weights = pd.Series(values).value_counts()
-        self.sample_weights = 1/weights.loc[self.preds]
+        self.sample_weights = 1/weights.loc[self.labels]
 
         self.unique = self.conv.to_str(label_conv.unique, False)
 
-    def invert_labels(self,array,string):
+    def invert_labels(self,array,string,idx):
+        if idx:
+            array = self.conv.idx_to_ord(array)
+
         inverted = []
         if not string:
             for label in array:
@@ -171,8 +188,8 @@ class stellar_metrics:
         )
 
         lum = cohen_kappa_score(
-            self.invert_labels(self.preds, False), 
-            self.invert_labels(self.labels, False), 
+            self.invert_labels(self.preds, False, self.idx), 
+            self.invert_labels(self.labels, False, self.idx), 
             weights=weighting,
             sample_weight=self.sample_weights
         )
@@ -204,9 +221,8 @@ class stellar_metrics:
         plt.figure(dpi=dpi, figsize=(10,10))
         plt.title(title)
         ax = sns.heatmap(cm, xticklabels=labs, yticklabels=labs,
-                    annot=True, fmt='.4g', cmap='pink_r', square=True, 
-                    linewidths=.5, linecolor='k', mask=cm==0, cbar=False,
-                    norm='log')
+            annot=True, fmt='.4g', cmap='pink_r', square=True, 
+            mask=cm==0, cbar=False, norm='log')
         
         if invert:
             sizes = pd.Series([x[1:] for x in self.unique]).value_counts().loc[self.lums].values
@@ -217,21 +233,24 @@ class stellar_metrics:
 
         for s in sizes:
             w, h = s, s
-            ax.add_patch(Rectangle((x, y), w, h, fill=False, edgecolor='crimson', lw=2, clip_on=False))
+            plt.axvline(x=x, c='k', lw=1)
+            plt.axhline(y=y, c='k', lw=1)
+            ax.add_patch(Rectangle((x, y), w, h, fill=False, edgecolor='crimson', lw=2, clip_on=False, zorder=10))
             x += s    
             y += s
-
+        plt.axvline(x=x, c='k', lw=1)
+        plt.axhline(y=y, c='k', lw=1)
         ax.tick_params(length=0)
 
         plt.xlabel('Prediction')
         plt.ylabel('Ground Truth');
 
     def draw_ord_cm(self, title, dpi):
-        diff = self.labels_regr-self.preds_regr
+        diff = self.labels_regr.astype(int)-self.preds_regr.astype(int)
         cm = confusion_matrix(diff[:,1], diff[:,0])
 
-        a, b = int(min(diff[:,0])), int(max(diff[:,0]))+1
-        c, d = int(min(diff[:,1])), int(max(diff[:,1]))+1
+        a, b = min(diff[:,0]), max(diff[:,0])+1
+        c, d = min(diff[:,1]), max(diff[:,1])+1
         ranges = range(min(a,c), max(b,d))
 
         plt.figure(dpi=dpi, figsize=(10,10))
@@ -269,12 +288,34 @@ class stellar_metrics:
         else:
             return print(report) 
 
-    def mae(self):
-        return mean_absolute_error(self.labels_regr, self.preds_regr)
+    def mae(self, weight, sep):
+        return mean_absolute_error(
+            self.labels_regr, 
+            self.preds_regr,
+            sample_weight = self.sample_weights if weight else None,
+            multioutput = 'raw_values' if sep else 'uniform_average'
+            )
     
-    def mape(self):
-        return mean_absolute_percentage_error(self.labels_regr, self.preds_regr)
+    def mape(self, weight, sep):
+        labels = self.labels_regr
+        labels[labels == 0] += 1e-1
+        return mean_absolute_percentage_error(
+            labels, 
+            self.preds_regr,
+            sample_weight = self.sample_weights if weight else None,
+            multioutput = 'raw_values' if sep else 'uniform_average'
+            )
 
     def f1_macro(self):
         return f1_score(self.labels, self.preds, average='macro')
+
+    def summary(self):
+        f1_macro = self.f1_macro()
+        mae = self.mae(True, False)
+        (k_t, k_l) = self.two_stage_qwk('q')
+        return {
+            'f1': f1_macro,
+            'mae': mae,
+            'qwk': (k_t, k_l),
+        }
     

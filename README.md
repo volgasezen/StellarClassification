@@ -43,20 +43,23 @@ PyTorch implementation of ConvKAN models can be accessed from [this repository](
 
 # Results
 
-Results show that while Resnet50-1D had better performance on luminosity class prediction, Conv1D-v2 had better performance when considering all other metrics. An ensemble of the two model responses via a mean of raw logits had the best results across all metrics.
+Results show variants of 1D CNN's outperform ConvTran and ConvKan across all metrics. While Conv1D-v2 has better F1 and QWK scores for temperature, Conv1D-v1 had better QWK for luminosity, and ResNet50-1D had comparable QWK for temperature. Ensembles overall performed better than single models. An ensemble of Conv1D-v2 and ResNet50-1D  responses via a mean of raw logits had the second best results across all metrics, and had .
 
-Below metrics for methods tried are shown in tables, including comparisons to results in existing literature. Our method outperforms luminosity classification results, and provides competitive results in temperature classification.
+Below are tables with evaluation scores, including comparisons to results in existing literature. Our method outperforms existing luminosity classification methods, and provides competitive results in temperature classification.
 
-| **Model** | **# params** | **F1 Macro** | **MAE** | **QWK (T)** | **QWK (L)** |
-|---|---|---|---|---|---|
-| Conv-KAN | 5M | 52.26 | 0.231 | 97.02 | 51.65 |
-| ConvTran | 67k | 56.77 | 0.234 | 97.13 | 65.30 |
-| Conv1D-v1 | 19M | 59.72 | 0.224 | 96.37 | 60.32 |
-| ResNet50-1D | 16M | 58.43 | 0.197 | 97.15 | 68.96 |
-| Conv1D-v2$<br>(α = 0.75) | 40M | 62.80 | 0.194 | 97.30 | 60.28 |
-| Conv1D-v2$<br>(α = 0.5) | 40M | 60.91 | 0.217 | 96.66 | 52.63 |
-| Conv1D-v2$<br>(α = 0) | 40M | 61.49 | 0.196 | 96.84 | 62.64 |
-| Conv1D-v2$+<br>ResNet50-1D | 56M | **67.67** | **0.167** | **97.79** | **72.06** |
+| **ID - Model**          | **# params** | **F1 Macro** | **MAE**   | **QWK (T)** | **QWK (L)** |
+|-------------------------|--------------|--------------|-----------|-------------|-------------|
+| 0 - Conv-KAN            |      5M      |     0.522    |   0.405   |    0.964    |    0.725    |
+| 1 - ConvTran            |      67K     |     0.567    |   0.269   |    0.980    |    0.861    |
+| 2 - Conv1D-v1           |      19M     |     0.597    |   0.236   |    0.980    |  **0.903**  |
+| 3 - ResNet50-1D         |      16M     |     0.585    |   0.322   |    0.982    |    0.798    |
+| 4 - Conv1D-v2 (α = .75) |      40M     |     0.628    |   0.269   |    0.979    |    0.865    |
+| 5 - Conv1D-v2 (α = .5)  |      40M     |     0.609    |   0.254   |    0.983    |    0.875    |
+| 6 - Conv1D-v2 (α = 0)   |      40M     |     0.615    |   0.258   |    0.983    |    0.877    |
+| Ensemble (1, 3)         |      16M     |     0.652    | **0.230** |  **0.987**  |    0.880    |
+| Ensemble (3, 4, 6)      |      96M     |   **0.677**  |   0.231   |    0.985    |    0.883    |
+| Ensemble (3, 4)*        |      56M     |     0.676    |   0.232   |    0.983    |    0.884    |
+*Balancing performance and size, *this ensemble is chosen.
 
 | **Method** | **I** | **II** | **III** | **IV** | **V** | **VI** |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -71,10 +74,10 @@ Below metrics for methods tried are shown in tables, including comparisons to re
 | Tan et al. | 0.99 | 0.94 | 0.90 | 0.89 | 0.90 | 0.93 | 0.97 |
 | Shi et al. | 0.80 | 0.85 | 0.84 | **0.91** | **0.92** | 0.96 | 0.99 |
 
-Detailed results with confusion matrices and individual-class scores are shared below:
+Detailed results with confusion matrices and per-class F1 scores are shared below:
 
-![Confusion matrix (temperature ordered)](img/temp_ord_cm.png "")
-![Error magnitudes across axes.](img/ordered_cm.png "Error magnitudes across axes.")
+![Confusion matrix (temperature ordered)](img/cm_1.png "")
+![Error magnitudes across axes.](img/cm_ord.png "Error magnitudes across axes.")
 
 | **Class** | **Precision** | **Recall** | **F1-Score** | **Support** |
 |---|---|---|---|---|
