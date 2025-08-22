@@ -59,6 +59,7 @@ Below are tables with evaluation scores, including comparisons to results in exi
 | Ensemble (1, 3)         |      16M     |     0.652    | **0.230** |  **0.987**  |    0.880    |
 | Ensemble (3, 4, 6)      |      96M     |   **0.677**  |   0.231   |    0.985    |    0.883    |
 | Ensemble (3, 4)*        |      56M     |     0.676    |   0.232   |    0.983    |    0.884    |
+
 *Balancing performance and size, *this ensemble is chosen.
 
 | **Method** | **I** | **II** | **III** | **IV** | **V** | **VI** |
